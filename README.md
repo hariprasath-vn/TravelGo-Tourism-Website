@@ -55,3 +55,6 @@ TravelGo/
 ```bash
 git clone https://github.com/hariprasath-vn/TravelGo-Tourism-Website.git
 ``
+## 📸 Project Screenshot
+
+![TravelGo Homepage](screenshots/travelgo-homepage.png)
