@@ -54,7 +54,25 @@ TravelGo/
 
 ```bash
 git clone https://github.com/hariprasath-vn/TravelGo-Tourism-Website.git
-``
+```
+
+### 2. Install Frontend Dependencies
+
+```bash
+cd TravelGo-Tourism-Website
+npm install
+```
+
+### 3. Run Frontend
+
+```bash
+npm run dev
+```
+
+### 4. Run Backend
+
+Open the backend folder in Eclipse and run the Spring Boot application.
+
 ## 📸 Project Screenshot
 
-![TravelGo Homepage](screenshots/travelgo-homepage.png)
+![TravelGo Homepage](./screenshots/travelgo-homepage.png)
