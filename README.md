@@ -1,4 +1,4 @@
-# 🌍 TravelGo – Tourism Website
+# 🌍 TravelGo – PolaMa Tourism Website
 
 TravelGo is a full-stack tourism website designed to help users explore beautiful travel destinations through an interactive and responsive interface.
 
